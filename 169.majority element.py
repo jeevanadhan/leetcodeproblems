@@ -10,3 +10,6 @@ class Solution(object):
 
             if m[i] > len(nums)/2:
                 return i
+
+
+
